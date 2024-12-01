@@ -1,0 +1,19 @@
+.container{
+  max-width: 500px;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  border: 4px solid gray;
+  padding: 25px;
+
+  margin-top:200px;
+}
+h2{
+  font-size: 48px;
+}
+h3{
+  font-size: 50px;
+}
+button{
+  margin-top: 20px;
+}
